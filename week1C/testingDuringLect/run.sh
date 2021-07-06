@@ -1,2 +1,4 @@
-gcc hello.c -lcs50
+echo "what to run?"
+read toCompile
+gcc $toCompile -lcs50
 ./a.out
