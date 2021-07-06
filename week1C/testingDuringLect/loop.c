@@ -17,7 +17,7 @@ int main(void){
 
     for (int z = 0; z < 3; z++)
     {
-        printf("meow \n");
+        printf("meow\n");
     }
     
 
