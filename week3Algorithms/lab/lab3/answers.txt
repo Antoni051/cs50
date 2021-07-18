@@ -1,0 +1,26 @@
+sort1 uses: bubble sort
+
+How do you know?: Much faster than on reversed50k and random50k so must be bubble O(n)
+
+sort2 uses: Merge sort
+
+How do you know?: Much much faster than others in random and reversed
+
+sort3 uses: selection sort
+
+How do you know?: 
+
+reversed50k
+sort 1 = 9.63 secs 
+sort 2 = 0.47secs 
+sort3 = 4secs 
+
+random50k
+sort 1 = 8s
+sort 2 = 0.47s
+sort 3 = 4secs 
+
+sorted50k
+sort 1 = 0.851s
+sort 2 = 0.7s
+sort 3 = 4.19s
