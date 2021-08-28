@@ -3,7 +3,7 @@
 #include <math.h>
 #include <string.h>
 
-// compile with gcc -o runoff runoff.c -lcs50 -l
+// compile with gcc -o runoff runoff.c -lcs50 -lm
 
 // Max voters and candidates
 #define MAX_VOTERS 100
